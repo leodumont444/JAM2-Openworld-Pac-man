@@ -3,6 +3,8 @@
 OpenWorld Pacman is an open-source project aimed at recreating the classic Pacman game with a twist - an infinite map and random ghosts. The game utilizes SFML for graphical rendering and ncurses for terminal-based rendering, providing flexibility in deployment.
 This project has been developped in 2 days by 5 Epitech Students, for an Epitech JAM.
 
+This project hasn't been cleaned & commented yet. It has been developped in less than 20 hours, it means that many functions, classes & methods may be not correctly named, and we do not manipulate c++ correctly yet. Feel free to refactorize some parts of the code to mae it proper, and feel free to document it too.
+
 ## Features
 
 - Classic Pacman gameplay with an infinite map.
